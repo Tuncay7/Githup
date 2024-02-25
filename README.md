@@ -6,4 +6,4 @@ HTML SCSS
 
 ## Ekran Görünümü
 
-![](ekran.gif)# Githup
+![](ekran.gif)
